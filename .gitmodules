@@ -1,0 +1,8 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ufosc/club-website.git
+	branch = master
+[submodule "backend"]
+	path = backend
+	url = git@github.com:ufosc/club-backend-ex.git
+	branch = main
